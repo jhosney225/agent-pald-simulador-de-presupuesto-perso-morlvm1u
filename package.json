@@ -1,0 +1,6 @@
+{
+  "name": "agent-pald-simulador-de-presupuesto-perso-morlvm1u",
+  "version": "1.0.0",
+  "description": "Proyecto de Pald [Gen10]: simulador de presupuesto personal mensual",
+  "main": "index.js"
+}
